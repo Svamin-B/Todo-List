@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+h4 {
+    margin-right: auto;
+}
+
+.home-btn {
+    width: 50%;
+    margin: 20px auto;
+
+}
+
+input {
+    width: 50%;
+    padding: 10px;
+
+
+}
+
+.box {
+    text-align: center;
+}
+
+.title {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.cross {
+    margin-right: 15px;
+}
+
+.list-item {
+    padding-top: 50px;
+}
